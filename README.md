@@ -51,13 +51,7 @@ We started creating a structogram for the Tic-tac-toe game, but your future trai
 
 *Please write down your solutions and include them in your email to us when completed.*
 
-(1) false
-(2) 0
-(3) true
-(4) 1
-(5) true
-(6) false
-(7) true
+(1) false  (2) 0  (3) true  (4) 1  (5) true  (6) false  (7) true
 
 ![tic-tac-toe-structogram](./docs/tic-tac-toe-struktogramm.jpg)
 
